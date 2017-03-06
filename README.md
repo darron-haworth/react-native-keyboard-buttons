@@ -5,7 +5,7 @@ This package provides custom buttons added above the system keyboard. The code i
 ## Installation
 
 ```
-npm i --save https://github.com/gyetvan-andras/react-native-keyboard-buttons
+npm i --save https://github.com/darron-haworth/react-native-keyboard-buttons
 react-native link
 ```
 If you would like to use **< >** images in your keyboard toolbar buttons, copy the content of Images folder to your XCode project.
